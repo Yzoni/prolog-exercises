@@ -1,0 +1,1 @@
+Prolog exercises for course Inleiding Logisch Programmeren @ University of Amsterdam.
